@@ -16,9 +16,9 @@ window.addEventListener("scroll", () => {
 
 // Exchange Rates Data
 const EXCHANGE_RATES = {
-    USD: { buy: 850.50, sell: 870.00 },
-    EUR: { buy: 920.00, sell: 940.00 },
-    GBP: { buy: 1070.00, sell: 1090.00 },
+    USD: { buy: 1100.50, sell: 1100.00 },
+    EUR: { buy: 1200.00, sell: 1200.00 },
+    GBP: { buy: 1200.00, sell: 1200.00 },
 };
 
 // Services Data
